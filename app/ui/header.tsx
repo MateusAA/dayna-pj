@@ -24,12 +24,12 @@ export default function HeaderDayna() {
 
                     {/* NAVEGAÇÃO */}
                     <nav className="flex gap-8 text-xl text-white ">
-                        <Link href="/" className="hover:text-[#ec3236] transition hover:scale-125 transition-all duration-500">Home</Link>
+                        <Link href="#home" className="hover:text-[#ec3236] transition hover:scale-125 transition-all duration-500">Home</Link>
                         <Link href="#catalogo" className="hover:text-[#ec3236] transition hover:scale-125 transition-all duration-500">Catálogo</Link>
-                        <Link href="/contato" className="hover:text-[#ec3236] transition hover:scale-125 transition-all duration-500">Contato</Link>
-                        <Link href="/contato" className="hover:text-[#ec3236] transition hover:scale-125 transition-all duration-500">Diferenciais</Link>
-                        <Link href="/contato" className="hover:text-[#ec3236] transition hover:scale-125 transition-all duration-500">Missão, Visão e Valores</Link>
-                        <Link href="/contato" className="hover:text-[#ec3236] transition hover:scale-125 transition-all duration-500">Sobre nós</Link>
+                        <Link href="#diferenciais" className="hover:text-[#ec3236] transition hover:scale-125 transition-all duration-500">Diferenciais</Link>
+                        <Link href="#missao" className="hover:text-[#ec3236] transition hover:scale-125 transition-all duration-500">Missão, Visão e Valores</Link>
+                        <Link href="#sobre" className="hover:text-[#ec3236] transition hover:scale-125 transition-all duration-500">Sobre nós</Link>
+                        <Link href="#contato" className="hover:text-[#ec3236] transition hover:scale-125 transition-all duration-500">Contato</Link>
                     </nav>
                 </div>
             </div>

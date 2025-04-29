@@ -1,5 +1,7 @@
 import Link from 'next/link';
 import Image from 'next/image';
+import { CameraIcon } from '@heroicons/react/24/outline';
+import { FaInstagram } from 'react-icons/fa';
 
 
 export default function FooterDayna() {
@@ -38,7 +40,7 @@ export default function FooterDayna() {
                         </ul>
                     </div>
 
-                    <div>
+                    <section id="contato">
 
                         {/* Contato */}
 
@@ -46,7 +48,10 @@ export default function FooterDayna() {
                         <p className="text-lg">📍 Localização: São Paulo - SP</p>
                         <p className="text-lg">📞 (11) 91234-5678</p>
                         <p className="text-lg">📧 contato@dayna.com.br</p>
-                    </div>
+                        <Link
+                            href="https://www.instagram.com/lojadayna1/"
+                            target='_blank'><FaInstagram size={24} /></Link>
+                    </section>
                 </div>
             </div>
 
