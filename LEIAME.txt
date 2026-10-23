@@ -1,0 +1,11 @@
+COMO VISUALIZAR
+1. Extraia o zip.
+2. Dê dois cliques em index.html (abre no navegador).
+
+ESTRUTURA
+dayna-site/
+  index.html          página do site
+  assets/             logos (logo-simbolo.png, logo-vertical.png)
+  fonts/              coloque aqui CodecPro-Bold.woff2
+
+Para publicar, suba a pasta inteira na hospedagem.

@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Dayna Personalizados</title>
+  <desc id="desc">Presentes personalizados em Guarulhos, São Paulo e para todo o Brasil.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff7f0"/><stop offset="1" stop-color="#ffe3d1"/></linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff7d3a"/><stop offset="1" stop-color="#ec3236"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="32" fill="url(#bg)"/>
+  <circle cx="1030" cy="112" r="190" fill="#ff7d3a" opacity=".12"/>
+  <circle cx="1090" cy="530" r="250" fill="#ec3236" opacity=".08"/>
+  <rect x="80" y="92" width="16" height="446" rx="8" fill="url(#brand)"/>
+  <text x="140" y="210" fill="#ec3236" font-family="Arial,sans-serif" font-size="42" font-weight="700">DAYNA PERSONALIZADOS</text>
+  <text x="140" y="322" fill="#2d1a14" font-family="Arial,sans-serif" font-size="62" font-weight="700">Presentes personalizados</text>
+  <text x="140" y="398" fill="#2d1a14" font-family="Arial,sans-serif" font-size="62" font-weight="700">em Guarulhos</text>
+  <text x="140" y="478" fill="#6e554b" font-family="Arial,sans-serif" font-size="32">Gráfica, uniformes e carinho em cada detalhe.</text>
+</svg>

@@ -1,0 +1,3 @@
+Coloque aqui o arquivo da fonte Codec Pro com o nome:
+CodecPro-Bold.woff2
+(precisa de licenca web). Sem ele, o site usa a fonte Outfit.
